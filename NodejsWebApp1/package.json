@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-web-app1",
+  "version": "0.0.0",
+  "description": "NodejsWebApp1",
+  "main": "server.js",
+  "author": {
+    "name": "HBM"
+  },
+  "dependencies": {
+    "azure-cli": "^0.10.12",
+    "request": "^2.81.0"
+  }
+}
